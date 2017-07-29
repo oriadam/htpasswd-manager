@@ -1,0 +1,4 @@
+AuthUserFile /absolute/path/to/.htpasswd
+AuthType Basic
+AuthName "Please enter your credentials"
+Require valid-user
